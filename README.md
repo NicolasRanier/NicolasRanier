@@ -41,6 +41,6 @@ Transformar ideias em experiências digitais, evoluindo constantemente como dese
 <a href="https://www.linkedin.com/in/nicolasranierdev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
----
+
 
 ⚡ Evoluindo a cada linha de código.
